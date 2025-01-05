@@ -255,7 +255,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/Aniket_Movies_Hub>[⏤͟͟͞͞ 🇮🇳 𝐀𝐧𝐢𝐤𝐞𝐭 𝐂𝐨𝐝𝐞𝐫 ᯤ̸]</a></b>"""
+    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>❤️‍🔥 𝐉ⱺ𝗂𐓣 : <a href=https://t.me/Aniket_Movies_Hub>𝐀𐓣𝗂𝗄𝖾𝗍 𝐌ⱺ𝗏𝗂𝖾𝗌</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
