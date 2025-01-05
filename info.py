@@ -25,8 +25,8 @@ PICS = (environ.get('PICS', 'https://envs.sh/zgQ.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/60e8a622b14796e4448ce.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/13702ae26fb05df52667c.jpg")
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/cbs.jpg'))
-CODE = (environ.get('CODE', 'https://graph.org/file/e419f801841c2ee3db0fc.jpg'))
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/rXf.jpg'))
+CODE = (environ.get('CODE', 'https://envs.sh/rXf.jpg'))
 
 
 # Admins, Channels & Users
