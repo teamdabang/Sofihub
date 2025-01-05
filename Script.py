@@ -4,7 +4,7 @@ class script(object):
 <blockquote>ɪᴍ ᴛʜᴇ ᴍᴏsᴛ ᴀᴅᴠᴀɴᴄᴇ ᴀɪ ᴘᴏᴡᴇʀᴅ 🤖 ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ..
 sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ..✨</blockquote>
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/KING18X007'>King</a>
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/KING18X007'>⏤͟͟͞͞ 🇮🇳 𝐀𝐧𝐢𝐤𝐞𝐭 𝐂𝐨𝐝𝐞𝐫 ᯤ̸</a>
 </b>"""
 
     GSTART_TXT = """<b>ʜᴇʏ {},\n\n𝒊 𝑨𝒎 𝑻𝒉𝒆 𝑴𝒐𝒔𝒕 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑨𝒖𝒕𝒐 𝑭𝒊𝒍𝒕𝒆𝒓 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑭𝒆𝒂𝒕𝒖𝒓𝒆.</b>"""
@@ -17,7 +17,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
     ABOUT_TXT = """<b>╭────[ MY ᴅᴇᴛᴀɪʟꜱ ]────⍟
 ├⍟ Mʏ Nᴀᴍᴇ : <a href='https://t.me/KING18X007'>⏤͟͟͞͞ 🇮🇳 𝐀𝐧𝐢𝐤𝐞𝐭 𝐂𝐨𝐝𝐞𝐫 ᯤ̸</a>
 ├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/KING18X007'>⏤͟͟͞͞ 🇮🇳 𝐀𝐧𝐢𝐤𝐞𝐭 𝐂𝐨𝐝𝐞𝐫 ᯤ̸</a>   
-├⍟ Main Channel : <a href="https://t.me/AJ_TVSERIAL">⏤͟͟͞͞ 🇮🇳 𝐀𝐧𝐢𝐤𝐞𝐭 𝐂𝐨𝐝𝐞𝐫 ᯤ̸</a>
+├⍟ Main Channel : <a href="https://t.me/AJ_TVSERIAL">ʟɪɴᴋ ᯤ̸</a>
 ├⍟ MOVIE Cʜᴀɴɴᴇʟ : <a href="https://t.me/Aniket_Movies_Hub">ʟɪɴᴋ</a>
 ├⍟ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ4.2 [ꜱᴛᴀʙʟᴇ]
 ╰───────────────⍟</b>"""
@@ -176,7 +176,8 @@ Nᴀᴍᴇ - {}
 
 ➢ QR Cᴏᴅᴇ : <a href='https://t.me/KING18x007'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
 
-➢ Uᴘɪ Iᴅ : <code>@King18x007</code>
+➢ Uᴘɪ Iᴅ : <a href='https://t.me/KING18x007'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
+
 
 ‼️ 𝑴𝒖𝒔𝒕 𝑺𝒆𝒏𝒅 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝑨𝒇𝒕𝒆𝒓 𝑫𝒐𝒏𝒂𝒕𝒆.</b>"""
     
@@ -254,7 +255,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/KING18X007>[king]</a></b>"""
+    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/Aniket_Movies_Hub>[⏤͟͟͞͞ 🇮🇳 𝐀𝐧𝐢𝐤𝐞𝐭 𝐂𝐨𝐝𝐞𝐫 ᯤ̸]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
@@ -410,7 +411,8 @@ BOT WORKING PROPERLY"""
     
  ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>@KING18x007</code>
+💵 ᴜᴘɪ ɪᴅ - <a href='https://t.me/KING18x007'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
+
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
