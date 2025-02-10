@@ -35,7 +35,7 @@ CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHAN
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ' -1002259385936')) #Log channel id ( make sure bot is admin )
 DEENDAYAL_MOVIE_UPDATE_CHANNEL = int(environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL', '0')) #Notification of those who verify will be sent to your channel. Enter the ID of the channel you want to send notification to here.
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '0')) # add premium logs channel id
-auth_channel = environ.get('AUTH_CHANNEL', '-1002004887345') #Channel / Group Id for force sub ( make sure bot is admin )
+auth_channel = environ.get('AUTH_CHANNEL', '-1002085722417') #Channel / Group Id for force sub ( make sure bot is admin )
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', ' -1002388566857').split()]
 support_chat_id = environ.get('SUPPORT_CHAT_ID', '0') # support group id ( make sure bot is admin )
 reqst_channel = environ.get('REQST_CHANNEL_ID', '0') # request channel id ( make sure bot is admin ).
@@ -61,8 +61,8 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/how_to_downloadvansha
 
 # Shortner 
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'thunderlinks.site')
-SHORTLINK_API = environ.get('SHORTLINK_API', '9b8352d01529ddff55012572af50fff86cb82522')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'adcash.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'f5f22dfb86d21cebb0214a0b3386ee8e3cb82f45')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_downloadvanshaj4') # Tutorial video link for opening shortlink website 
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
